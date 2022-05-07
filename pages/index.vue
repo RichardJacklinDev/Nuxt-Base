@@ -1,0 +1,5 @@
+<template>
+    <div class="p-3">
+        <h1>Welcome!</h1>
+    </div>
+</template>
